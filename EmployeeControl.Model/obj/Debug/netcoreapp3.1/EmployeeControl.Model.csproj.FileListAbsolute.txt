@@ -1,0 +1,9 @@
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\obj\Debug\netcoreapp3.1\EmployeeControl.Model.csprojAssemblyReference.cache
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\obj\Debug\netcoreapp3.1\EmployeeControl.Model.AssemblyInfoInputs.cache
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\obj\Debug\netcoreapp3.1\EmployeeControl.Model.AssemblyInfo.cs
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\obj\Debug\netcoreapp3.1\EmployeeControl.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\bin\Debug\netcoreapp3.1\EmployeeControl.Model.deps.json
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\bin\Debug\netcoreapp3.1\EmployeeControl.Model.dll
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\bin\Debug\netcoreapp3.1\EmployeeControl.Model.pdb
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\obj\Debug\netcoreapp3.1\EmployeeControl.Model.dll
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Model\obj\Debug\netcoreapp3.1\EmployeeControl.Model.pdb

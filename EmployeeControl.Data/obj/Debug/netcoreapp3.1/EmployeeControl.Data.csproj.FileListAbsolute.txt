@@ -1,0 +1,15 @@
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Data.deps.json
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Data.runtimeconfig.json
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Data.runtimeconfig.dev.json
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Data.dll
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Data.pdb
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Model.dll
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\bin\Debug\netcoreapp3.1\EmployeeControl.Model.pdb
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.csprojAssemblyReference.cache
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.AssemblyInfo.cs
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.csproj.CopyComplete
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.dll
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.pdb
+C:\Users\hp\Git Repository\Week 6\EmployeeControl.Data\obj\Debug\netcoreapp3.1\EmployeeControl.Data.genruntimeconfig.cache
