@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeControl.Data", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeControl.Logic", "..\EmployeeControl.Logic\EmployeeControl.Logic.csproj", "{C405A210-AB65-48B9-991C-6C5B78AB0BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeControl.UI", "..\EmployeeControl.UI\EmployeeControl.UI.csproj", "{CCEDA307-D497-4EBF-8411-641B5958AE7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C405A210-AB65-48B9-991C-6C5B78AB0BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C405A210-AB65-48B9-991C-6C5B78AB0BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C405A210-AB65-48B9-991C-6C5B78AB0BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEDA307-D497-4EBF-8411-641B5958AE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEDA307-D497-4EBF-8411-641B5958AE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEDA307-D497-4EBF-8411-641B5958AE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEDA307-D497-4EBF-8411-641B5958AE7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
